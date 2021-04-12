@@ -1,0 +1,16 @@
+canvas {
+  margin: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 500%;
+  margin: auto;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+body {
+  background-color: #483D8B;
+}
