@@ -5,3 +5,5 @@ let config = {
 }
 
 let game = new Phaser.Game(config);
+
+console.log("this is a test");
