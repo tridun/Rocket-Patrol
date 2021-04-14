@@ -9,6 +9,9 @@ h1 {
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #00FF00;
+  text-shadow: 8px 8px #000000;
 }
 
 body {
